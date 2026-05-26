@@ -1,0 +1,15 @@
+{
+  "name": "@targeted-design-agency/mcp-shared-bridge",
+  "version": "1.0.0",
+  "description": "TDA Shared Bridge MCP Server — 38 tools for agent coordination, email pipeline, lead verification, and campaign operations",
+  "bin": {
+    "mcp-shared-bridge": "./bin/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Targeted-Design-Agency/mcp-shared-bridge"
+  },
+  "homepage": "https://targeted-design.com",
+  "license": "MIT",
+  "dependencies": {}
+}
