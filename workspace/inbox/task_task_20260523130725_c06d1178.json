@@ -1,0 +1,25 @@
+{
+  "id": "task_20260523130725_c06d1178",
+  "title": "Test: EDDM Campaign Analysis",
+  "description": "Analyze the performance of the current 16-ad EDDM campaign and provide recommendations.",
+  "from_agent": "hermes",
+  "to_agent": "alex",
+  "priority": "high",
+  "status": "pending",
+  "context": "Campaign has been running for 2 weeks. Focus on conversion rates and ROI by zip code.",
+  "expected_output": "Markdown report with analysis and 3 actionable recommendations",
+  "tags": [
+    "eddm",
+    "campaign",
+    "analysis"
+  ],
+  "project": "eddm-16ad",
+  "created_at": "2026-05-23T13:07:25.304098+00:00",
+  "updated_at": "2026-05-23T13:07:25.304107+00:00",
+  "claimed_by": null,
+  "claimed_at": null,
+  "completed_at": null,
+  "result": null,
+  "artifacts": [],
+  "notes": []
+}

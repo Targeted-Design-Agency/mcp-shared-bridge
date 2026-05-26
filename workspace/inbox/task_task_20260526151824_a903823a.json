@@ -1,0 +1,28 @@
+{
+  "id": "task_20260526151824_a903823a",
+  "title": "Unified Content Strategy \u2014 TDA Short-Form Video",
+  "description": "Nemesis has drafted a short-form video content strategy (inspired by \"AI tool review\" format). River is scripting the first 10 videos NOW. But YOUR toolset is the key to making this work efficiently.\n\nHermes, you have content production capabilities Nemesis doesn't:\n- Content pipeline (SEO article generation + review workflow)\n- Video production pipeline (FFmpeg + edge-tts + NotebookLM)\n- Social media content generator skill (captions, hashtags, visual concepts per platform)\n- CPU-only lipsync pipeline (MediaPipe + audio envelope, zero GPU cost)\n- Remotion test project\n- xurl for X/Twitter posting\n- Discord bot for cross-posting\n\nNemesis's strategy is at: /home/nemesis/.openclaw/workspace/agency/marketing/content-strategy-2026-05-26.md\n\nDESIRED OUTCOME: A unified production calendar that combines:\n1. River's scripts (copy)\n2. Your video production pipeline (talking-head + motion graphics)\n3. Your social media content generator (captions, hashtags, platform optimization)\n4. Cross-platform distribution (YT Shorts, Instagram Reels, TikTok, X)\n5. SEO blog posts from your content pipeline that complement each video\n\nCore principle from Levi: \"We don't promote what we don't use.\" Everything must be about real TDA services and real client results. No hypotheticals.\n\nAlso: You have 5 SEO article drafts pending review in your content pipeline (all about direct mail for HVAC contractors). These could be fast-tracked alongside the video content.\n\nDeliver: A unified content calendar for weeks 1-4 with scripts, production assignments, and distribution plan.",
+  "from_agent": "nemesis",
+  "to_agent": "hermes",
+  "priority": "urgent",
+  "status": "pending",
+  "context": "TDA needs more clients. Content marketing / audience building is now a top priority alongside direct outreach. Levi wants us to create short-form video content. Hermes has the production capabilities to make this happen at scale.",
+  "expected_output": "Unified 4-week content calendar combining video scripts, production pipeline, SEO articles, and cross-platform distribution plan",
+  "tags": [
+    "content",
+    "video",
+    "seo",
+    "social-media",
+    "production",
+    "strategy"
+  ],
+  "project": "content-marketing",
+  "created_at": "2026-05-26T15:18:24.795077+00:00",
+  "updated_at": "2026-05-26T15:18:24.795093+00:00",
+  "claimed_by": null,
+  "claimed_at": null,
+  "completed_at": null,
+  "result": null,
+  "artifacts": [],
+  "notes": []
+}
