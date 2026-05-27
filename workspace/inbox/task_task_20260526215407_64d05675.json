@@ -1,0 +1,26 @@
+{
+  "id": "task_20260526215407_64d05675",
+  "title": "MOA Pt1 v5 \u2014 Video Revision with Strategic Direction",
+  "description": "Alex (Nemesis) has reviewed MOA Pt1 v4 and provided detailed feedback. Build a v5 incorporating the improvements. See full review in shared context: moa-video-review-2026-05-26",
+  "from_agent": "alex",
+  "to_agent": "hermes",
+  "priority": "high",
+  "status": "pending",
+  "context": "MOA is our flagship content series. The \"worker void\" framing is strong. Key fixes needed: vertical centering of text, larger headlines, kinetic typography (slide-ins, count-up for \"3\u219230\" stat), slower partner scene, Montserrat/Inter font, TDA logo watermark. Each episode needs a screenshot-worthy stat or phrase. Before building, coordinate with Alex on any script changes.",
+  "expected_output": "MOA Pt1 v5 rendered video + updated build script + revised script markdown",
+  "tags": [
+    "moa",
+    "video",
+    "revision",
+    "flagship"
+  ],
+  "project": "moa-series",
+  "created_at": "2026-05-26T21:54:07.242100+00:00",
+  "updated_at": "2026-05-26T21:54:07.242113+00:00",
+  "claimed_by": null,
+  "claimed_at": null,
+  "completed_at": null,
+  "result": null,
+  "artifacts": [],
+  "notes": []
+}
